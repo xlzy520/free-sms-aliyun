@@ -9,6 +9,12 @@ sms.signName=洁雅康
 ```
 
 ## 消息模板
+短信验证码
+```text
+sms.TemplateCode1=SMS_217436891 //
+变量：code
+预览：您正在申请手机注册，验证码为：${code}，5分钟内有效！
+```
 1. 模板1（小说更新提醒）
 ```text
 sms.TemplateCode1=SMS_185241056 //
