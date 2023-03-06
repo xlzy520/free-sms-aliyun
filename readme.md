@@ -3,8 +3,8 @@
 
 ## Config
 ```js
-sms.accessKeyId=LTAIUVqGhhJkpW23
-sms.secret=w8JTHC5vwgDdBNXxuajXsHd0nJm18d
+sms.accessKeyId=LTAI5tJm2QjnE7Xu8Lrv2K9K
+sms.secret=9dgZRUOUzm3Du3UKl5prkAd49PpOfd
 sms.signName=洁雅康
 ```
 
