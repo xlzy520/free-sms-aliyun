@@ -3,8 +3,9 @@
 
 ## Config
 ```js
-sms.accessKeyId=LTAI5tJm2QjnE7Xu8Lrv2K9K
-sms.secret=9dgZRUOUzm3Du3UKl5prkAd49PpOfd
+// 删除中间的空格
+sms.accessKeyId=LTAI5tJm2Q     jnE7Xu8Lrv2K9K  
+sms.secret=9dgZRUOUzm      3Du3UKl5prkAd49PpOfd
 sms.signName=洁雅康
 ```
 
